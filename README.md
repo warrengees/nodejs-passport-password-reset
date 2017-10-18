@@ -2,7 +2,7 @@
 
 This is a working node.js app that implements sign up, login, logoff, and password reset via email.
 
-This is a code described in the blog post
+This is code described in the blog post
 [How To Implement Password Reset In Node.js by Sahat Yalkabov](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
 
 * This is not my creation. Credit should go to Sahat Yalkabov for creating an excellent tutorial.
